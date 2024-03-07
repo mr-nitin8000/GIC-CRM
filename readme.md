@@ -4,7 +4,8 @@
 <br />
 <div align="center">
   <a href="#">
-    <img src="images/logo.jpg" alt="Logo"  height="100">
+    <img src="images/vid/InsureLink.gif" alt="Logo"  height="500">
+    
   </a>
 
   <h3 align="center">InsureLink: Tracking Made Easy</h3>
@@ -34,7 +35,7 @@
 ## About The Project
 
 <a href="#">
-    <img src="images/vid/InsureLink.gif" alt="Logo"  height="100">
+  <img src="images/logo.jpg" alt="Logo"  height="100">
   </a>
   <br>
 **Project:** Implement a GIC CRM system to enhance customer relationship management for our general insurance business.
