@@ -97,14 +97,14 @@ GIC-CRM is made up with following technology
 </div>
 <div>
 <h3 align="center">Confirmation of enquiry Submission <h3>
-<img align="center" src="images/pic9.jpg" alt="Logo" ></div>
+<img align="center" src="images/pic9.jpg" alt="Logo" height="600"></div>
 
 ## Owner Side(Owner side app)
 
 <h3 align="center">Spalsh Screen</h3>
 <img align="center" src="images/ownerImages/pic1.jpg" alt="Logo" height="600" >
 <h3 align="center">Owner Log in Page</h3>
-<img align="center" src="images/pic2.jpg" alt="Logo" >
+<img align="center" src="images/pic2.jpg" alt="Logo" height="600" >
 <h3 align="center">Home</h3>
 <img align="center" src="images/ownerImages/pic2.jpg" alt="Logo" height="600">
 <h3 align="center">NavBar options</h3>
