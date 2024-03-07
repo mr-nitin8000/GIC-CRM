@@ -72,8 +72,11 @@ GIC-CRM is made up with following technology
 ## Snapshots
 
 ## Customer Side(Client side app)
-<h3 align="left">Spalsh Screen</h3>
+<div>
+  <h3 align="left">Spalsh Screen</h3>
 <img src="images/pic1.jpg" alt="Logo" >
+</div>
+
 <h3 align="left">Log in Page</h3>
 <img src="images/pic2.jpg" alt="Logo" >
 <h3 align="left">Sign Up Page</h3>
@@ -86,10 +89,28 @@ GIC-CRM is made up with following technology
 <img src="images/pic6.jpg" alt="Logo" >
 <h3 align="left">Policy Search</h3>
 <img src="images/pic7.jpg" alt="Logo" >
+<h3 align="left">User enquiry</h3>
+<img src="images/pic8.jpg" alt="Logo" >
+<h3 align="left">Confirmation of enquiry Submission <h3>
+<img src="images/pic9.jpg" alt="Logo" >
 
 ## Owner Side(Owner side app)
 <h3 align="left">Spalsh Screen</h3>
 <img src="images/ownerImages/pic1.jpg" alt="Logo" >
+<h3 align="left">Owner Log in Page</h3>
+<img src="images/pic2.jpg" alt="Logo" >
+<h3 align="left">Home</h3>
+<img src="images/ownerImages/pic2.jpg" alt="Logo" >
+<h3 align="left">NavBar options</h3>
+<img src="images/ownerImages/pic3.jpg" alt="Logo" >
+<h3 align="left">List of Policies</h3>
+<img src="images/ownerImages/pic5.jpg" alt="Logo" >
+<h3 align="left">List of Next renewals with send reminder function</h3>
+<img src="images/ownerImages/pic6.jpg" alt="Logo" >
+<h3 align="left">Find Policies</h3>
+<img src="images/ownerImages/pic7.jpg" alt="Logo" >
+<h3 align="left">User enquiry</h3>
+<img src="images/ownerImages/pic8.jpg" alt="Logo" >
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
