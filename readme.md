@@ -8,7 +8,7 @@
 <br />
 <div align="center">
   <a href="#">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.jpg" alt="Logo"  height="100">
   </a>
 
   <h3 align="center">InsureLink: Tracking Made Easy</h3>
@@ -41,7 +41,7 @@
 ## About The Project
 
 <a href="#">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.jpg" alt="Logo"  height="100">
   </a>
   <br>
 **Project:** Implement a GIC CRM system to enhance customer relationship management for our general insurance business.
@@ -71,8 +71,25 @@ GIC-CRM is made up with following technology
 
 ## Snapshots
 
+## Customer Side(Client side app)
+<h3 align="left">Spalsh Screen</h3>
+<img src="images/pic1.jpg" alt="Logo" >
+<h3 align="left">Log in Page</h3>
+<img src="images/pic2.jpg" alt="Logo" >
+<h3 align="left">Sign Up Page</h3>
+<img src="images/pic3.jpg" alt="Logo" >
+<h3 align="left">Home</h3>
+<img src="images/pic4.jpg" alt="Logo" >
+<h3 align="left">Policy Listing</h3>
+<img src="images/pic5.jpg" alt="Logo" >
+<h3 align="left">Profile</h3>
+<img src="images/pic6.jpg" alt="Logo" >
+<h3 align="left">Policy Search</h3>
+<img src="images/pic7.jpg" alt="Logo" >
 
-<img src="images/pic1.png" alt="Logo" >
+## Owner Side(Owner side app)
+<h3 align="left">Spalsh Screen</h3>
+<img src="images/ownerImages/pic1.jpg" alt="Logo" >
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
