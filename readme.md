@@ -63,64 +63,60 @@ GIC-CRM is made up with following technology
 
 ## Customer Side(Client side app)
 
-<div style="display:flex; gap:1rem; flex-wrap:wrap">
-
 <div>
-  <h3 align="left">Spalsh Screen</h3>
-<img src="images/pic1.jpg" alt="Logo" height="400" >
+  <h3 align="center">Spalsh Screen</h3>
+<img align="center" src="images/pic1.jpg" alt="Logo" height="600" >
 </div>
 <div>
-<h3 align="left">Log in Page</h3>
-<img src="images/pic2.jpg" alt="Logo" height="400">
+<h3 align="center">Log in Page</h3>
+<img align="center" src="images/pic2.jpg" alt="Logo" height="600">
 </div>
 <div>
-<h3 align="left">Sign Up Page</h3>
-<img src="images/pic3.jpg" alt="Logo" height="400">
+<h3 align="center">Sign Up Page</h3>
+<img align="center" src="images/pic3.jpg" alt="Logo" height="600">
 </div>
 <div>
-<h3 align="left">Home</h3>
-<img src="images/pic4.jpg" alt="Logo" height="400">
+<h3 align="center">Home</h3>
+<img align="center" src="images/pic4.jpg" alt="Logo" height="600">
 </div>
 <div>
-<h3 align="left">Policy Listing</h3>
-<img src="images/pic5.jpg" alt="Logo" height="400">
+<h3 align="center">Policy Listing</h3>
+<img align="center" src="images/pic5.jpg" alt="Logo" height="600">
 </div>
 <div>
-<h3 align="left">Profile</h3>
-<img src="images/pic6.jpg" alt="Logo" height="400">
+<h3 align="center">Profile</h3>
+<img align="center" src="images/pic6.jpg" alt="Logo" height="600">
 </div>
 <div>
-<h3 align="left">Policy Search</h3>
-<img src="images/pic7.jpg" alt="Logo" height="400">
+<h3 align="center">Policy Search</h3>
+<img align="center" src="images/pic7.jpg" alt="Logo" height="600">
 </div>
 <div>
-<h3 align="left">User enquiry</h3>
-<img src="images/pic8.jpg" alt="Logo" height="400">
+<h3 align="center">User enquiry</h3>
+<img align="center" src="images/pic8.jpg" alt="Logo" height="600">
 </div>
 <div>
-<h3 align="left">Confirmation of enquiry Submission <h3>
-<img src="images/pic9.jpg" alt="Logo" ></div>
-
-</div>
+<h3 align="center">Confirmation of enquiry Submission <h3>
+<img align="center" src="images/pic9.jpg" alt="Logo" ></div>
 
 ## Owner Side(Owner side app)
 
-<h3 align="left">Spalsh Screen</h3>
-<img src="images/ownerImages/pic1.jpg" alt="Logo" >
-<h3 align="left">Owner Log in Page</h3>
-<img src="images/pic2.jpg" alt="Logo" >
-<h3 align="left">Home</h3>
-<img src="images/ownerImages/pic2.jpg" alt="Logo" >
-<h3 align="left">NavBar options</h3>
-<img src="images/ownerImages/pic3.jpg" alt="Logo" >
-<h3 align="left">List of Policies</h3>
-<img src="images/ownerImages/pic5.jpg" alt="Logo" >
-<h3 align="left">List of Next renewals with send reminder function</h3>
-<img src="images/ownerImages/pic6.jpg" alt="Logo" >
-<h3 align="left">Find Policies</h3>
-<img src="images/ownerImages/pic7.jpg" alt="Logo" >
-<h3 align="left">User enquiry</h3>
-<img src="images/ownerImages/pic8.jpg" alt="Logo" >
+<h3 align="center">Spalsh Screen</h3>
+<img align="center" src="images/ownerImages/pic1.jpg" alt="Logo" height="600" >
+<h3 align="center">Owner Log in Page</h3>
+<img align="center" src="images/pic2.jpg" alt="Logo" >
+<h3 align="center">Home</h3>
+<img align="center" src="images/ownerImages/pic2.jpg" alt="Logo" height="600">
+<h3 align="center">NavBar options</h3>
+<img align="center" src="images/ownerImages/pic3.jpg" alt="Logo" height="600">
+<h3 align="center">List of Policies</h3>
+<img align="center" src="images/ownerImages/pic5.jpg" alt="Logo" height="600">
+<h3  align="center">List of Next renewals with send reminder function</h3>
+<img align="center" src="images/ownerImages/pic6.jpg" alt="Logo" height="600">
+<h3 align="center">Find Policies</h3>
+<img align="center" src="images/ownerImages/pic7.jpg" alt="Logo" height="600">
+<h3 align="center">User enquiry</h3>
+<img align="center" src="images/ownerImages/pic8.jpg" alt="Logo" height="600">
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
