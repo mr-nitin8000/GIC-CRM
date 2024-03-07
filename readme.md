@@ -34,7 +34,7 @@
 ## About The Project
 
 <a href="#">
-    <img src="images/logo.jpg" alt="Logo"  height="100">
+    <img src="images/vid/InsureLink.gif" alt="Logo"  height="100">
   </a>
   <br>
 **Project:** Implement a GIC CRM system to enhance customer relationship management for our general insurance business.
@@ -63,60 +63,68 @@ GIC-CRM is made up with following technology
 
 ## Customer Side(Client side app)
 
-<div>
+<div align="center">
   <h3 align="center">Spalsh Screen</h3>
 <img align="center" src="images/pic1.jpg" alt="Logo" height="600" >
 </div>
-<div>
+<div align="center">
 <h3 align="center">Log in Page</h3>
 <img align="center" src="images/pic2.jpg" alt="Logo" height="600">
 </div>
-<div>
+<div align="center">
 <h3 align="center">Sign Up Page</h3>
 <img align="center" src="images/pic3.jpg" alt="Logo" height="600">
 </div>
-<div>
+<div align="center">
 <h3 align="center">Home</h3>
 <img align="center" src="images/pic4.jpg" alt="Logo" height="600">
 </div>
-<div>
+<div align="center">
 <h3 align="center">Policy Listing</h3>
 <img align="center" src="images/pic5.jpg" alt="Logo" height="600">
 </div>
-<div>
+<div align="center">
 <h3 align="center">Profile</h3>
 <img align="center" src="images/pic6.jpg" alt="Logo" height="600">
 </div>
-<div>
+<div align="center">
 <h3 align="center">Policy Search</h3>
 <img align="center" src="images/pic7.jpg" alt="Logo" height="600">
 </div>
-<div>
+<div align="center">
 <h3 align="center">User enquiry</h3>
 <img align="center" src="images/pic8.jpg" alt="Logo" height="600">
 </div>
-<div>
+<div align="center">
 <h3 align="center">Confirmation of enquiry Submission <h3>
 <img align="center" src="images/pic9.jpg" alt="Logo" height="600"></div>
 
 ## Owner Side(Owner side app)
 
-<h3 align="center">Spalsh Screen</h3>
+<div align="center"> <h3 align="center">Spalsh Screen</h3>
 <img align="center" src="images/ownerImages/pic1.jpg" alt="Logo" height="600" >
-<h3 align="center">Owner Log in Page</h3>
+</div>
+<div align="center"> <h3 align="center">Owner Log in Page</h3>
 <img align="center" src="images/pic2.jpg" alt="Logo" height="600" >
-<h3 align="center">Home</h3>
+</div>
+<div align="center"> <h3 align="center">Home</h3>
 <img align="center" src="images/ownerImages/pic2.jpg" alt="Logo" height="600">
-<h3 align="center">NavBar options</h3>
+</div>
+<div align="center"> <h3 align="center">NavBar options</h3>
 <img align="center" src="images/ownerImages/pic3.jpg" alt="Logo" height="600">
-<h3 align="center">List of Policies</h3>
+</div>
+<div align="center"> <h3 align="center">List of Policies</h3>
 <img align="center" src="images/ownerImages/pic5.jpg" alt="Logo" height="600">
-<h3  align="center">List of Next renewals with send reminder function</h3>
+</div>
+<div align="center"> <h3  align="center">List of Next renewals with send reminder function</h3>
 <img align="center" src="images/ownerImages/pic6.jpg" alt="Logo" height="600">
-<h3 align="center">Find Policies</h3>
+</div>
+<div align="center"> <h3 align="center">Find Policies</h3>
 <img align="center" src="images/ownerImages/pic7.jpg" alt="Logo" height="600">
-<h3 align="center">User enquiry</h3>
+</div>
+<div align="center"> <h3 align="center">User enquiry</h3>
 <img align="center" src="images/ownerImages/pic8.jpg" alt="Logo" height="600">
+</div>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
