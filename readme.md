@@ -131,8 +131,7 @@ GIC-CRM is made up with following technology
 <!-- CONTACT -->
 
 ## Contact
-
-Your Name - [@Nitin_Kumawat](www.linkedin.com/in/nitin-kumawat-957160261) - Nitin.kumawat.cs.8000@gmail.com
+Name - [@Nitin_Kumawat](www.linkedin.com/in/nitin-kumawat-957160261) - Nitin.kumawat.cs.8000@gmail.com
 
 Project Link: [https://github.com/mr-nitin8000/GIC-CRM](https://github.com/mr-nitin8000/GIC-CRM)
 
